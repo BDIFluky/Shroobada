@@ -27,7 +27,6 @@ The compose file for authentik is located at [`authentik-compose.yml`](/services
 
 - **shrooAuthName:** Specifies a container name for the server service and a prefix for the other services. For usage purpose, see the [Default Rule for Exposed Containers](default-rule-for-exposed-containers).
 - **shrooAuthDir:** Defines the absolute path where authentik’s files are stored locally.
-- **shrooAuthDB:** Defines the absolute path where authentik's database is stored locally.
 
 The `.auth.env` file is passed to both the auth-server and auth-worker services. It contains the required environment variables for this guide:
 
