@@ -1,7 +1,7 @@
 # Shroobada
 Shroobada is BDI's attempt at setting up a homelab, and for once they are documenting their shit (this is unprecedented).
 
-> “Those who know, do. Those who understand, teach.” <sub>― Lee Shulman </sub>
+> “Those who can, do. Those who understand, teach.” <sub>― Lee S. Shulman </sub>
 
 ## Table of Contents
 
